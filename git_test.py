@@ -5,6 +5,9 @@ mydict = {
 }
 print('changing contents of the file')
 
+b = 'monkey'
+d = [b,b,b,b,b]
+
 x = 5
 
 if x > 0:
