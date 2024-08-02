@@ -10,7 +10,8 @@ d = [b,b,b,b,b]
 
 x = 5
 
-if x > 0:
+while x > 0:
     print (x)
     x = x-1
-else: print ('Blast off!')
+
+print ('Blast off!')
